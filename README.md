@@ -15,3 +15,4 @@ The data set contains the following attributes:
     j: User id of answerer 
     as: Score of the answer 
     at: Time of the answer (in epoch time) 
+
